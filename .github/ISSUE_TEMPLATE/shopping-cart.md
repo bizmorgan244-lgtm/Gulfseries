@@ -1,4 +1,10 @@
-# Issue Template: Shopping Cart Feature
+---
+name: Shopping Cart Feature
+about: Create a shopping cart feature request for the Orders management system
+title: "Shopping Cart: "
+labels: ["enhancement", "feature"]
+assignees: []
+---
 
 ## 🛒 Shopping Cart Feature - Orders Management
 
@@ -38,9 +44,3 @@ See [Shopping Cart Requirements](https://github.com/bizmorgan244-lgtm/Gulfseries
 
 ### Priority
 High - Core feature for service booking platform
-
-### Labels
-- enhancement
-- feature
-- backend
-- frontend
